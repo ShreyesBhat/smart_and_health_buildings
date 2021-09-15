@@ -4,9 +4,9 @@
 * Rock, paper, scissor, hmm. Rock is usually my first instinct.  
 * Night owl for assignments, morning bird for readings.  
 
->
+
 > #### This is my hello world program in python
->
+
 <pre><code>
 def main():
   print("Hello World!")
@@ -17,7 +17,7 @@ main()
 >
 > #### This is my good_bye program in python
 >
-
+<pre><code>
 from random import randint as rand
 
 def main():
@@ -25,3 +25,4 @@ def main():
         print(i+1, " good bye cruel world", end="\n")
         
 main()
+</code></pre>
