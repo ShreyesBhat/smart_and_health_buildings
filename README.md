@@ -1,5 +1,5 @@
- <div align = "right"> <h5> spb5ht, 09/15/2021
- </h5></div>
+ <div align = "right"> <h5> spb5ht, 09/15/2021 </h5></div>
+
  <div><h2><center><b> Lab 1 - Smart and Healthy Buildings </center> </b></h2>
 
 ### Shreyes
@@ -18,9 +18,9 @@ def main():
 main()
 </code></pre>
 
->
+
 > #### This is my good_bye program in python
->
+
 <pre><code>
 from random import randint as rand
 
