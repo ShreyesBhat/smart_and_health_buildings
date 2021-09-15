@@ -1,5 +1,4 @@
-<div><h2><center><b> Lab 1 </center></h2> <style = "text-align: right"> <h5> spb5ht </h5> </style>
-  </div>
+<div><h2><center><b> Lab 1 </center> </b></h2> </div> < div style = "float: right"> <h5> spb5ht </h5> </div>
 
 ### Shreyes
 
