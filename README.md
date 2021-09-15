@@ -1,4 +1,4 @@
- <div align = "right"> <h5> spb5ht, 09/15/2021 </h5></div>
+<h5 align="right"> spb5ht, 09/15/2021 </h5>
 
  <div><h2><center><b> Lab 1 - Smart and Healthy Buildings </center> </b></h2>
 
